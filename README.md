@@ -1,1 +1,1 @@
-# limits
+# @appstack-io/limits
